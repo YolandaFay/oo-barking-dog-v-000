@@ -22,4 +22,8 @@ class Dog
     @breed 
   end
   
+  def bark
+    puts "Woof!"
+  end
+  
 end
